@@ -1,0 +1,4 @@
+backups/
+*.local.json
+*.log
+
